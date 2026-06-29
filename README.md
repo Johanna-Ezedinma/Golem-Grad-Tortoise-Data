@@ -1,5 +1,4 @@
-# What Happens When There Is Nowhere Left to Run
-### Exploratory Data Analysis of the Golem Grad Tortoise Population
+# Exploratory Data Analysis of the Golem Grad Tortoise Population
 
 ---
 
