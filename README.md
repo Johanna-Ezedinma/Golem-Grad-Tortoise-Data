@@ -11,7 +11,7 @@ What they found instead was something no ecologist had ever documented in a wild
 **The tortoises were walking off cliffs.**
 
 
-![Females Falling off the cliff](GolemGradTortoise.png)
+![Females Falling off the cliff](Golem%Grad%Tortoise.png)
 
 
 *Male counts on the island swing dramatically year to year. Female counts stay consistently low throughout, never rising meaningfully even when male numbers spike.*
