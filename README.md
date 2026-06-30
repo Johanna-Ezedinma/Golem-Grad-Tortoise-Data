@@ -10,7 +10,10 @@ What they found instead was something no ecologist had ever documented in a wild
 
 **The tortoises were walking off cliffs.**
 
-![Sex Ratio Over Time on the Island](Images/sex_ratio_over_time.png)
+
+![Females Falling off the cliff](GolemGradTortoise.png)
+
+
 *Male counts on the island swing dramatically year to year. Female counts stay consistently low throughout, never rising meaningfully even when male numbers spike.*
 
 ---
@@ -18,6 +21,8 @@ What they found instead was something no ecologist had ever documented in a wild
 Not occasionally. Not randomly. Female tortoises, specifically, were approaching the edge and not stopping. One GPS-monitored female recorded a sudden acceleration just before going over. Her shell hit the rocks with fractures. Researchers at first recorded these as accidents. Then the pattern became impossible to ignore.
 
 They looked harder. And what they saw was this: on the island, males outnumber females by nearly **13 to 1.**
+
+![Sex Ratio Over Time on the Island](Images/sex_ratio_over_time.png)
 
 ![Sex Ratio by Locality](Images/sex_ratio_by_locality.png)
 *1,088 males to 84 females on the island. On the mainland, the ratio is nearly balanced. The imbalance is specific to Golem Grad.*
